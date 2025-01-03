@@ -13,7 +13,7 @@
     "@renproject/chains-ethereum": "2.5.9",
     "@renproject/chains-filecoin": "2.5.9",
     "@renproject/chains-solana": "2.5.9",
-    "@renproject/chains-terra": "2.5.9",
+    "@renproject/chains-terra": "3.1.0",
     "@renproject/fonts": "^1.0.3-rc1",
     "@renproject/interfaces": "2.5.9",
     "@renproject/multiwallet-binancesmartchain-injected-connector": "2.5.9",
